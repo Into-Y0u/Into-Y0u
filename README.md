@@ -1,5 +1,10 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F68097599%2FBanner-Images-for-Coding-Challenges&psig=AOvVaw0SU7w34DDrgqYruLdUTJTX&ust=1642497208710000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCM6ZK5uPUCFQAAAAAdAAAAABAJ)](https://www.into-y0u.github.io/Portfolio1/)
+
+
+
 <h1 align="center">Hi 👋, I'm Arghya</h1>
 <h3 align="center">A passionate frontend developer and problem solver from India.</h3>
+
 
 - 🌱 I’m currently learning **Backend Development and Cloud based services .**
 
@@ -14,9 +19,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/16Bt30NSFSekGfeeKMl0l7RYulVnSyvu7/view?usp=sharing](https://drive.google.com/file/d/16Bt30NSFSekGfeeKMl0l7RYulVnSyvu7/view?usp=sharing)
 
 - ⚡ Fun fact **lOL, I'm from EE .**
-<p  >
-<p style = "dispaly:inline;"><img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="Into-Y0u" height = "100%" width = "20%" /></p>
-<p  style = "dispaly:inline;">><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Into-Y0u" height = "100%" width = "20%" /></p>
+<p >
+<p align = "left"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Into-Y0u" height = "100%" width = "20%" /></p>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
