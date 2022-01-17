@@ -14,9 +14,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/16Bt30NSFSekGfeeKMl0l7RYulVnSyvu7/view?usp=sharing](https://drive.google.com/file/d/16Bt30NSFSekGfeeKMl0l7RYulVnSyvu7/view?usp=sharing)
 
 - ⚡ Fun fact **lOL, I'm from EE .**
-<p align = "center" flex = 1 >
-<p align="left"><img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="Into-Y0u" height = "100%" width = "40%" /></p>
-<p align="right"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Into-Y0u" height = "100%" width = "40%" /></p>
+<p  >
+<p style = "dispaly:inline;"><img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="Into-Y0u" height = "100%" width = "20%" /></p>
+<p  style = "dispaly:inline;">><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Into-Y0u" height = "100%" width = "20%" /></p>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
