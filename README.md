@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **7arghyadev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16Bt30NSFSekGfeeKMl0l7RYulVnSyvu7/view?usp=sharing](https://drive.google.com/file/d/16Bt30NSFSekGfeeKMl0l7RYulVnSyvu7/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16Bt30NSFSekGfeeKMl0l7RYulVnSyvu7/view?usp=sharing)
 
 - ⚡ Fun fact **lOL, I'm from EE .**
 <p >
