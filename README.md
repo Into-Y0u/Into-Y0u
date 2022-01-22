@@ -14,7 +14,7 @@
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-<img width="55%" align="right" alt="hynai" src="https://github.com/Into-Y0u/Into-Y0u/blob/dadf8c7ba482f93f3d256c0e624d9f4903a833fc/coding.gif" />
+<img width="55%" align="right" alt="hynai" src="https://github.com/Into-Y0u/Into-Y0u/blob/de9be21e88f9634f7b3d0e4da56a612d500ea379/coder%20animaton.gif" />
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
