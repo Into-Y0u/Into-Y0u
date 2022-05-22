@@ -20,9 +20,9 @@
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
  
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16Bt30NSFSekGfeeKMl0l7RYulVnSyvu7/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1sZrXvq6A_ZII8mfr_ZYEJyfRkScORSzv/view?usp=sharing)
   
-- 👨‍💻 All of my projects are available at [My Portfolio](https://whos-arghya.w3spaces.com/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://whosarghya.netlify.app/)
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
