@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Into-Y0u/Into-Y0u/blob/53c2639571463a76ea024c6f75b69dd0b2655423/github-banner.png)](https://www.into-y0u.github.io/Portfolio1/)
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Into-Y0u.Into-Y0u)
