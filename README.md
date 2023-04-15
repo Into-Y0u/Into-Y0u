@@ -8,7 +8,7 @@
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
  
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1hRSNe_dgQaiSr86jhZhEyAw1INqWrvci/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Z9-slu-vV2S-xjzboUkUpomg4ueKwyVY/view?usp=share_link)
   
 - 👨‍💻 All of my projects are available at [My Portfolio](https://whosarghya.netlify.app/)
 
