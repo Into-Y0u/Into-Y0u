@@ -4,13 +4,13 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 💫About Me :
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- 👯 I’m looking to collaborate on Projects, Tech Articles 
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Python, JavaScript, Freelancing opportunities, Open Source 
  
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Z9-slu-vV2S-xjzboUkUpomg4ueKwyVY/view?usp=share_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/19ZWXaQjCFJJMcrBWMapNDrrF8CXRQImx/view?usp=sharing)
   
-- 👨‍💻 All of my projects are available at [My Portfolio](https://whosarghya.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://whosarghya.vercel.app/)
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Arghya_tfl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arghyadev-sarkar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@WhosArghya) 
